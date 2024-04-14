@@ -1,1 +1,9 @@
 version: "2.0"
+services:
+  databases-project:
+    build: .
+    ports:
+      - "8080:8080"
+    env_file:
+      - database.env
+    network_mode: host
