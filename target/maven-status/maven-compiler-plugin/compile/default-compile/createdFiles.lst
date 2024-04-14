@@ -1,0 +1,13 @@
+org\example\databasesproject1\dtos\AirportT1OutputDTO.class
+org\example\databasesproject1\dtos\CityT2OutputDTO.class
+org\example\databasesproject1\dtos\CountryT1OutputDTO.class
+org\example\databasesproject1\AirportFilter.class
+org\example\databasesproject1\DatabasesProject1Application.class
+org\example\databasesproject1\controller\Controller.class
+org\example\databasesproject1\model\Country.class
+org\example\databasesproject1\dtos\CountryT2OutputDTO.class
+org\example\databasesproject1\dtos\AirportT2OutputDTO.class
+org\example\databasesproject1\dtos\CityT1OutputDTO.class
+org\example\databasesproject1\model\Airport.class
+org\example\databasesproject1\repository\Repository.class
+org\example\databasesproject1\model\City.class
